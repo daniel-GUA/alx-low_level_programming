@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main - Prints all possible combinations of two differen
- * t 
+ * main - Entry point
+ * Description- Prints all possible combinations of two different
  * Return: Always 0.
 */
 int main(void)
