@@ -1,5 +1,5 @@
 #ifndef main_h
-#define main_h
+#define  main_h
 /**
  * Main - Entry point
  *   Desc: Header file containing declarations for all functions
