@@ -1,18 +1,23 @@
 #include "main.h"
-#include <stdio.h>
-#include <time.h>
+
 /**
- * main - Entry point
- * Description: print_alphabet - prints the alphabet in lowercase, followed by a new line.
- * Return Always 0
+ * print_alphabet - prints the alphabet in lowercase,
+ * followed by a new linne.
+ * Always return 0
 */
-int main(void)
+
+void print_alphabet(void)
 {
-	char letter;
+	char c;
 
-	for (letter = 'a'; letter <= 'z'; letter++)
-		_putchar(letter);
-
+	for (c = 'a'; c <= 'z'; c++)
+	{
+		_putchar(c);
+	}
 	_putchar('\n');
-	return (0);
 }
+/**
+ * Main - Entry point for main.c
+ * Description - prints alphabets in owercase
+ * Always return 0
+*/
