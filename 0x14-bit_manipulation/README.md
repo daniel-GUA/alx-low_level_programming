@@ -1,1 +1,1 @@
-0x14. C - Bit manipulation
+This directory talks about Bit Manipulation in C .
